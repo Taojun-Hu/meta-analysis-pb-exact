@@ -1,0 +1,7 @@
+nohup: ignoring input
+single_pn
+double_pn
+single_bn
+double_bn
+double_hn
+END
